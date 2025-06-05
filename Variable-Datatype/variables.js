@@ -14,3 +14,4 @@ console.log (age)
 console.log (name)
 console.log (number)
 console.log(area)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

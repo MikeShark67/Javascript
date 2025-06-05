@@ -4,9 +4,6 @@ let name="Michael"
 let age="18"
 let student="Shorn"
 
-console.log("name: "+ name+student+age)
-console.log("student: "+ student)
-console.log("age: "+ age);
-
+console.log("My Name is " + name + student + " I am "  + age + "years old" )
 }
-personalInfoCard ()
+personalInfoCard ();
