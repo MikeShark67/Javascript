@@ -4,7 +4,7 @@ let age;
 const name ="Michael";
 let number;
 let area;
-//var initialization
+//var initiali    zation
 age =(20)
 number =(67)
 area =(58)
